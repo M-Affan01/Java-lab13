@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Student s = new Student("Affan");
-        s.display();
+        System.out.println("Hello GitHub Lab 13");
     }
 }
